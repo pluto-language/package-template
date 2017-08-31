@@ -1,0 +1,4 @@
+## Prints "Hello, world!"
+def hello world {
+    print "Hello, world!"
+}
