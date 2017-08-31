@@ -1,0 +1,11 @@
+title: %display
+description: %description
+version: %version
+
+tags: []
+
+authors:
+  - %author
+
+sources:
+  - "*.pluto"
